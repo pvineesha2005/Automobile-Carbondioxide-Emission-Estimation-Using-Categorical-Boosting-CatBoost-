@@ -1,0 +1,4 @@
+Model Performance Metrics
+MAE  : 3.23 g/km
+RMSE : 5.64 g/km
+R²   : 0.9920
